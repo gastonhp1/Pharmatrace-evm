@@ -1,4 +1,11 @@
-# PharmaTrace
+# PharmaTrace (EVM)
+
+> **Versión archivada.** Esta es la implementación original de PharmaTrace sobre Ethereum
+> (Solidity + Hardhat). El proyecto siguió sobre **Hyperledger Fabric**, una red permisionada que
+> calza mejor con un consorcio de laboratorios, droguerías, farmacias y regulador:
+> [gastonhp1/Pharmatrace](https://github.com/gastonhp1/Pharmatrace). Este repo queda como
+> referencia, con su historial completo; su CI corre los tests pero ya no publica imágenes ni
+> despliega al cluster.
 
 Trazabilidad de medicamentos sobre blockchain. Cada lote de un medicamento se registra en un
 smart contract y queda con un historial inmutable de quién lo tuvo y en qué estado, desde el
